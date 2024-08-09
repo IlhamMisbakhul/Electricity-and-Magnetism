@@ -1,7 +1,7 @@
 # This is MATLab Electricity and Magnetism Project
 
 ## MATLab Electricity and Magnetism Project
-This is a MATLab Electricity and Magnetism Project that I created using MATLab. This project is really good if you wanted to use it for a college project, if yout university was using MATlab for Physic. You can clone this project if you are interested. FYI, every text that are displayed was using Indonesian, so you have to translate that to English if you're not from Indonesia, but it's a good strt for your project.
+This is a MATLab Electricity and Magnetism Project that I created using MATLab. This project is really good if you wanted to use it for a college project, if your university was using MATlab for Physics. You can clone this project if you are interested. FYI, every text that are displayed was using Indonesian, so you have to translate that to English if you're not from Indonesia, but it's a good start for your project.
 
 ## Additional
 If you found any bug, feel free to commit and create a new branch, and you can do pull request to help more people. Thank you so much for visiting my code, have a nice day.
